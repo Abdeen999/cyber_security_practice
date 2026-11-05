@@ -1,7 +1,7 @@
 
 # My Cyber Security Journey 🚀
 
-Here is my 4-day practice progress:
+Here is my practice progress:
 
 ## Day 1: Basic Network Check
 ![Day 1 Practice](day1.png)
