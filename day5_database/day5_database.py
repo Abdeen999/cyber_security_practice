@@ -5,7 +5,7 @@ connection = sqlite3.connect("my_hacking_lab.db")
 cursor = connection.cursor()
 
 # 2. Create a table
-cursor.execute("""
+cursor.execute(r"""
 CREATE TABLE IF NOT EXISTS targets (
     id INTEGER PRIMARY KEY,
     ip_address TEXT,
