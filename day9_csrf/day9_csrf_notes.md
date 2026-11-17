@@ -1,4 +1,3 @@
-# Day 9: Cross-Site Request Forgery (CSRF)
 
 ## What is CSRF?
 CSRF is an attack that tricks a victim into submitting a malicious request to a web application they are currently logged into. It exploits the web application's trust in the user's browser.
